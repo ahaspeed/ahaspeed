@@ -15,7 +15,7 @@
 
 ---
 ### 点击下载最新客户端
-#### :arrow_double_down: [国内官网链接](https://wtcn.mnfmoy.com)
+#### :arrow_double_down: [国内官网链接](https://wtcn.ranqigaibiao.com)
 #### :arrow_double_down: [官方网站链接](https://www.ahaspeed.com/zh-hans)
 #### :arrow_double_down: [iOS 下载](https://l.ahajsq.com/d/ios)
 #### :arrow_double_down: [Mac 下载](https://www.ahaspeed.com/d/ahaspeed_mac.pkg)
