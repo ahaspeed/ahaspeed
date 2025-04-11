@@ -15,12 +15,12 @@
 
 ---
 ### 点击下载最新客户端
-#### :arrow_double_down: [国内官网链接](https://wtcn2.ranqigaibiao.com)
+#### :arrow_double_down: [国内官网链接](https://wtcn3.ranqigaibiao.com)
 #### :arrow_double_down: [官方网站链接](https://www.ahaspeed.com/zh-hans)
 #### :arrow_double_down: [iOS 下载](https://l.ahajsq.com/d/ios)
-#### :arrow_double_down: [Mac 下载](https://wtcn2.ranqigaibiao.com/d/ahaspeed_mac.pkg)
-#### :arrow_double_down: [Android 下载](https://wtcn2.ranqigaibiao.com/d/ahaspeed_android.apk)
-#### :arrow_double_down: [Windows 下载](https://wtcn2.ranqigaibiao.com/d/ahaspeed_win.exe)
+#### :arrow_double_down: [Mac 下载](https://wtcn3.ranqigaibiao.com/d/ahaspeed_mac.pkg)
+#### :arrow_double_down: [Android 下载](https://wtcn3.ranqigaibiao.com/d/ahaspeed_android.apk)
+#### :arrow_double_down: [Windows 下载](https://wtcn3.ranqigaibiao.com/d/ahaspeed_win.exe)
 #### :arrow_double_down: [App Store 下载](https://apps.apple.com/ca/app/ahaspeed/id1638643960)
 
 
